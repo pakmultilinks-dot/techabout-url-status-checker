@@ -1,0 +1,77 @@
+{
+  "checked": 8,
+  "results": [
+    {
+      "url": "https://techabout.com/",
+      "final_url": "https://www.techabout.com/",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 1715,
+      "redirected": true,
+      "error": ""
+    },
+    {
+      "url": "https://www.techabout.com/",
+      "final_url": "https://www.techabout.com/",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 748,
+      "redirected": false,
+      "error": ""
+    },
+    {
+      "url": "https://techabout.com/services",
+      "final_url": "https://www.techabout.com/services",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 1715,
+      "redirected": true,
+      "error": ""
+    },
+    {
+      "url": "https://techabout.com/this-page-does-not-exist-xyz",
+      "final_url": "https://www.techabout.com/this-page-does-not-exist-xyz",
+      "status": 404,
+      "reason": "NOT FOUND",
+      "time_ms": 1893,
+      "redirected": true,
+      "error": ""
+    },
+    {
+      "url": "https://example.com/",
+      "final_url": "https://example.com/",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 403,
+      "redirected": false,
+      "error": ""
+    },
+    {
+      "url": "http://example.com/",
+      "final_url": "http://example.com/",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 137,
+      "redirected": false,
+      "error": ""
+    },
+    {
+      "url": "https://www.python.org/",
+      "final_url": "https://www.python.org/",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 317,
+      "redirected": false,
+      "error": ""
+    },
+    {
+      "url": "https://github.com/pakmultilinks-dot/techabout-link-extractor",
+      "final_url": "https://github.com/pakmultilinks-dot/techabout-link-extractor",
+      "status": 200,
+      "reason": "OK",
+      "time_ms": 436,
+      "redirected": false,
+      "error": ""
+    }
+  ]
+}

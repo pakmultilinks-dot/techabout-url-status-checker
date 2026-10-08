@@ -1,0 +1,9 @@
+# Sample URL list: public pages only (TechAbout brand + well-known public sites)
+https://techabout.com/
+https://www.techabout.com/
+https://techabout.com/services
+https://techabout.com/this-page-does-not-exist-xyz
+https://example.com/
+http://example.com/
+https://www.python.org/
+https://github.com/pakmultilinks-dot/techabout-link-extractor

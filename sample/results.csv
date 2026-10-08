@@ -1,0 +1,9 @@
+url,final_url,status,reason,time_ms,redirected,error
+https://techabout.com/,https://www.techabout.com/,200,OK,2239,True,
+https://www.techabout.com/,https://www.techabout.com/,200,OK,893,False,
+https://techabout.com/services,https://www.techabout.com/services,200,OK,2138,True,
+https://techabout.com/this-page-does-not-exist-xyz,https://www.techabout.com/this-page-does-not-exist-xyz,404,NOT FOUND,2017,True,
+https://example.com/,https://example.com/,200,OK,491,False,
+http://example.com/,http://example.com/,200,OK,148,False,
+https://www.python.org/,https://www.python.org/,200,OK,495,False,
+https://github.com/pakmultilinks-dot/techabout-link-extractor,https://github.com/pakmultilinks-dot/techabout-link-extractor,200,OK,920,False,
